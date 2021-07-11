@@ -9,3 +9,6 @@ models:
   test:
     type: page
     label: test
+    fields:
+      - name: ''
+        type: string
