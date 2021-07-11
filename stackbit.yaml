@@ -5,10 +5,3 @@ ssgName: jekyll
 publishDir: _site
 dataDir: _data
 pagesDir: ''
-models:
-  test:
-    type: page
-    label: test
-    fields:
-      - name: ''
-        type: string
